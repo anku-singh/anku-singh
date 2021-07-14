@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anku-singh
-- 👀 I’m professional web, mobile application developer with 5+ year of experience
+- 👀 I’m professional web, mobile application developer with 5+ year of experience in react, react native, flutter, php, laravel, wordpress
 - 🌱 I’m currently learning aws
-- 💞️ I’m looking to collaborate on react, react native and flutter application development
+- 💞️ I’m looking to collaborate on react, react native, php and flutter application development
 - 📫 You can reach me through my official website http://crewcodestudio.com/contact also i'm available on linkedin https://www.linkedin.com/in/anku-singh-7b32a082/
 
 <!---
